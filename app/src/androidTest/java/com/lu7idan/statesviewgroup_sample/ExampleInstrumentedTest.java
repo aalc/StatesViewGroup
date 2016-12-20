@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("me.lu7idan.statesviewgroup", appContext.getPackageName());
+        assertEquals("com.lu7idan", appContext.getPackageName());
     }
 }

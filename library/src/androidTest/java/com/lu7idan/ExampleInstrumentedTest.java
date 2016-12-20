@@ -1,4 +1,4 @@
-package me.lu7idan;
+package com.lu7idan;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("me.lu7idan.statesviewgroup.test", appContext.getPackageName());
+        assertEquals("com.lu7idan.test", appContext.getPackageName());
     }
 }

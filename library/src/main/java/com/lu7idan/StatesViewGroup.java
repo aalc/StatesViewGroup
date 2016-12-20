@@ -1,4 +1,4 @@
-package me.lu7idan;
+package com.lu7idan;
 
 import android.content.Context;
 import android.util.AttributeSet;
