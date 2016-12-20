@@ -1,4 +1,4 @@
-package me.lu7idan.statesviewgroup;
+package me.lu7idan;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package me.lu7idan.statesviewgroup;
+package me.lu7idan;
 
 import android.content.Context;
 import android.util.AttributeSet;

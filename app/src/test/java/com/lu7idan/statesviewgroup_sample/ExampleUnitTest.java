@@ -1,4 +1,4 @@
-package me.lu7idan.statesviewgroup_sample;
+package com.lu7idan.statesviewgroup_sample;
 
 import org.junit.Test;
 

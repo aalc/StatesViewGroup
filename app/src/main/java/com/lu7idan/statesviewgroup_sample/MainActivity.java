@@ -1,11 +1,12 @@
-package me.lu7idan.statesviewgroup_sample;
+package com.lu7idan.statesviewgroup_sample;
 
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import me.lu7idan.statesviewgroup.StatesViewGroup;
+import me.lu7idan.StatesViewGroup;
+import me.lu7idan.statesviewgroup_sample.R;
 
 public class MainActivity extends AppCompatActivity {
 
